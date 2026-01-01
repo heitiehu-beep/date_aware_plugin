@@ -1,0 +1,23 @@
+{
+  "manifest_version": 1,
+  "name": "日期感知插件",
+  "version": "1.0.0",
+  "description": "让麦麦能够更准确地感知日期和节假日信息，自动将“昨天/今天/明天”的日期注入到对话上下文中",
+  "author": {
+    "name": "heitiehu-beep",
+    "url": "https://github.com/heitiehu-beep"
+  },
+  "license": "MIT",
+  "host_application": {
+    "min_version": "0.11.0"
+  },
+  "repository_url": "https://github.com/heitiehu-beep/date_aware_plugin",
+  "keywords": [
+    "日期",
+    "节假日",
+    "日历"
+  ],
+  "categories": [
+    "Utilities"
+  ]
+}
